@@ -1,0 +1,10 @@
+fieldset{
+    background-color: beige;
+    border-radius: 10px;
+    box-shadow: 10px 15px  rgb(173, 103, 23);
+    width: 30%;
+}
+legend{
+    font-weight: bold;
+    font-size: 22px;
+}
